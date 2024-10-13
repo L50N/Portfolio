@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer {
+    ::-moz-selection {
+        background: rgba(192, 192, 192, 0.5);
+    }
+    ::selection {
+        background: rgba(192, 192, 192, 0.5);
+    }
+}
