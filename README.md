@@ -1,10 +1,10 @@
 <div align="center">
   <a href="https://github.com/l50n">
-    <img src="https://github.com/user-attachments/assets/fb07f696-6ded-4ded-8493-103710f707a7" alt="Logo" height="80">
+    <img src="https://github.com/user-attachments/assets/2f762520-6c84-49df-9cfd-0c16701fa86e" alt="Logo" height="80">
   </a>
   <h3 align="center">Brtnk.DE Portfolio</h3>
   <p align="center">
-    My personal portfolio, open-source! 👀🥀
+    My personal portfolio, open-source! 👀🍃
     <br />
     <br />
     <a href="https://github.com/L50N/Portfolio/issues">Report a Bug</a>
