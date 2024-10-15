@@ -3,7 +3,7 @@
 </script>
 
 <div
-	class="space-y-4 min-h-[50.25rem] sm:min-h-[56rem] h-hero-calc hero:max-h-[32rem] hero:mt-24 mt-[1.875rem] 3xl:mt-0 pb-[3.75rem] flex flex-col justify-center w-full">
+	class="space-y-4 min-h-[50.25rem] sm:min-h-[56rem] h-hero-calc hero:max-h-[32rem] hero:mt-24 3xl:mt-0 pb-[3.75rem] flex flex-col justify-center w-full">
 	<div class="space-y-4">
 		<div>
 			<a href="/" class="inline-block">
