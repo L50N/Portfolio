@@ -7,7 +7,7 @@
 	<div class="space-y-4">
 		<div>
 			<a href="/" class="inline-block">
-				<button class="flex justify-center items-center h-10 w-10 bg-red-500 rounded-full bg-[#E8E8E8]">
+				<button class="flex justify-center items-center h-10 w-10 rounded-full bg-[#E8E8E8]">
 					<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="#545454" class="size-5">
 						<path stroke-linecap="round" stroke-linejoin="round" d="M9 15 3 9m0 0 6-6M3 9h12a6 6 0 0 1 0 12h-3" />
 					</svg>
